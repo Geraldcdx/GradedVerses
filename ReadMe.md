@@ -13,3 +13,8 @@ https://raw.githubusercontent.com/Geraldcdx/GradedVerses/main/NewTestamentGraded
 ![image](https://user-images.githubusercontent.com/35788598/137582195-f99c92cd-1afa-469e-89f7-07fae3bb6c12.png)
 
 
+Future Ideas: 
+1) Develop a simple UI using Command Line/chatbot telegram bot to for spaced repetiton or multiple choice
+2) Change the weighing metrics used to determine the weightage. Possibly to explore input such as increased difficulty of participles/mi verbs
+
+
