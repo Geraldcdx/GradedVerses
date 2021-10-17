@@ -9,9 +9,13 @@ There is a frequency of each word of the New Testament in the code, feel free to
 The top verse should be the easiest verse in the entire New Testament(according my metrics of measurement). 
 
 Download Here, right clcik and save as:
+Easy Graded Reader for Greek New Testament. It comprises of text that use the top 338 words in the Greek New Testament
+https://github.com/Geraldcdx/Greek-New-Testament-Graded-Verses/blob/main/easyNTReader.txt
+
+
 https://raw.githubusercontent.com/Geraldcdx/GradedVerses/main/NewTestamentGradedReaderForVerses.txt
 ![image](https://user-images.githubusercontent.com/35788598/137582195-f99c92cd-1afa-469e-89f7-07fae3bb6c12.png)
-
+https://github.com/Geraldcdx/Greek-New-Testament-Graded-Verses/blob/main/easyNTReader.xlsx
 
 Future Ideas: 
 1) Develop a simple UI using Command Line/chatbot telegram bot to for spaced repetiton or multiple choice
