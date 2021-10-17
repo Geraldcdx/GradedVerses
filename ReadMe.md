@@ -2,7 +2,7 @@
 
 The aim of this code is the rank the difficult of all Greek New Testament verses for the student that has finished 1 year of Koine Greek.
 
-The "difficulty" of each verse is measure by the sum of the occurrence of each word in the New Testament divided by the total number of words in the verse.
+The "difficulty" of each verse is measure by the sum of the occurrence of each word in the New Testament divided by the total number of words in the verse. This is determined by setting the words in different buckets. Higher frequency words have greater priority.
 
 There is a frequency of each word of the New Testament in the code, feel free to use it.
 
@@ -17,7 +17,7 @@ Future Ideas:
 1) Develop a simple UI using Command Line/chatbot telegram bot to for spaced repetiton or multiple choice
 2) Change the weighing metrics used to determine the weightage. Possibly to explore input such as increased difficulty of participles/mi verbs
 Tentative idea, using this graph to give more weightage to common words and less in rarer words.
-![image](https://user-images.githubusercontent.com/35788598/137592956-20d46d5b-2141-41f6-a31e-014bea93676b.png)
+![image](https://user-images.githubusercontent.com/35788598/137605687-c02a7e82-d4d4-4eb5-80c8-39a1bf25949e.png)
 
 
 
