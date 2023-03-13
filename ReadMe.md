@@ -24,4 +24,7 @@ Tentative idea, using this graph to give more weightage to common words and less
 ![image](https://user-images.githubusercontent.com/35788598/137605687-c02a7e82-d4d4-4eb5-80c8-39a1bf25949e.png)
 
 
+###There is a local version of this for hebrew for my own usage. Contact me if interested.
+
+
 
